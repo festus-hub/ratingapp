@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574009674491",
+    "project_id": "myfiirebaseratingapp",
+    "storage_bucket": "myfiirebaseratingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574009674491:android:32a5ab2b488e20435bbe5e",
+        "android_client_info": {
+          "package_name": "com.example.myfiirebaseratingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574009674491-uhg5rnd0pnls8vplv6unetj6unm6vi4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIvCJzSIB7DPSD8rEegDZCdyB35SsB6-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574009674491-uhg5rnd0pnls8vplv6unetj6unm6vi4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
